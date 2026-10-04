@@ -125,4 +125,3 @@ total:
 ---
 
 ---
-{"id":338552112,"author":{"login":"fjonasALICE","id":30235576,"node_id":"MDQ6VXNlcjMwMjM1NTc2","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPPs9s84ULeUw","tag_name":"v1.1.2","target_commitish":"main","name":"v1.1.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-06-12T12:09:01Z","updated_at":"2026-06-12T12:10:33Z","published_at":"2026-06-12T12:10:33Z","assets":[],"body":"## Highlights\n- Added support for custom keyboard shortcuts via `keyboard_shortcuts` in config.\n- Improved startup refresh UX with clearer status updates during initial fetch. Before it would seem like artui is stuck during long startup.\n- Hardened config loading/normalization to better handle invalid user input.\n\n## Full changelog\nSee commit history: https://github.com/fjonasALICE/arTui/compare/v1.1.1...v1.1.2\n"}
